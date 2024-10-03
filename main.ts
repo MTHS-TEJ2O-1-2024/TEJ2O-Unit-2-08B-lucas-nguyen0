@@ -5,7 +5,7 @@
  * This program displays 7 different colours on an RGB LED.
 */
 
-// setup
+// setup 
 basic.clearScreen()
 pins.digitalWritePin(DigitalPin.P13, 0)
 pins.digitalWritePin(DigitalPin.P14, 0)
